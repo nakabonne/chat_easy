@@ -1,7 +1,5 @@
 # Usage
 ```
-$ git clone https://github.com/ryonakao/chat_easy.git
-$ cd ../chat_easy
-$ go build
+$ go get github.com/ryonakao/chat_easy
 $ chat_easy
 ```
